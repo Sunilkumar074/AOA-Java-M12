@@ -1,5 +1,7 @@
 # EX 2B Jump Game using Greedy Algorithm.
 
+### Date: 1/9/26
+
 ### Developed By: SUNIL KUMAR P.B.
 
 ### Register Number: 212223040213
